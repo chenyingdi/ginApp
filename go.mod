@@ -1,4 +1,4 @@
-module ginApp
+module github.com/chenyingdi/ginApp
 
 go 1.13
 
